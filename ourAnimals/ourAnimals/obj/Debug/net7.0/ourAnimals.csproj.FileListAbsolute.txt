@@ -1,0 +1,15 @@
+C:\Users\Flavio\Documents\GitHub\petShop\ourAnimals\ourAnimals\bin\Debug\net7.0\ourAnimals.exe
+C:\Users\Flavio\Documents\GitHub\petShop\ourAnimals\ourAnimals\bin\Debug\net7.0\ourAnimals.deps.json
+C:\Users\Flavio\Documents\GitHub\petShop\ourAnimals\ourAnimals\bin\Debug\net7.0\ourAnimals.runtimeconfig.json
+C:\Users\Flavio\Documents\GitHub\petShop\ourAnimals\ourAnimals\bin\Debug\net7.0\ourAnimals.dll
+C:\Users\Flavio\Documents\GitHub\petShop\ourAnimals\ourAnimals\bin\Debug\net7.0\ourAnimals.pdb
+C:\Users\Flavio\Documents\GitHub\petShop\ourAnimals\ourAnimals\obj\Debug\net7.0\ourAnimals.csproj.AssemblyReference.cache
+C:\Users\Flavio\Documents\GitHub\petShop\ourAnimals\ourAnimals\obj\Debug\net7.0\ourAnimals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flavio\Documents\GitHub\petShop\ourAnimals\ourAnimals\obj\Debug\net7.0\ourAnimals.AssemblyInfoInputs.cache
+C:\Users\Flavio\Documents\GitHub\petShop\ourAnimals\ourAnimals\obj\Debug\net7.0\ourAnimals.AssemblyInfo.cs
+C:\Users\Flavio\Documents\GitHub\petShop\ourAnimals\ourAnimals\obj\Debug\net7.0\ourAnimals.csproj.CoreCompileInputs.cache
+C:\Users\Flavio\Documents\GitHub\petShop\ourAnimals\ourAnimals\obj\Debug\net7.0\ourAnimals.dll
+C:\Users\Flavio\Documents\GitHub\petShop\ourAnimals\ourAnimals\obj\Debug\net7.0\refint\ourAnimals.dll
+C:\Users\Flavio\Documents\GitHub\petShop\ourAnimals\ourAnimals\obj\Debug\net7.0\ourAnimals.pdb
+C:\Users\Flavio\Documents\GitHub\petShop\ourAnimals\ourAnimals\obj\Debug\net7.0\ourAnimals.genruntimeconfig.cache
+C:\Users\Flavio\Documents\GitHub\petShop\ourAnimals\ourAnimals\obj\Debug\net7.0\ref\ourAnimals.dll
